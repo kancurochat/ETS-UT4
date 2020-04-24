@@ -1,0 +1,28 @@
+Movimiento:
+- WASD
+-Flechas		   
+-Teclado numérico (incluye diagonales)
+					  
+Inventario:
+- E para seleccionar el siguiente objeto
+- Q para seleccionar el objeto anterior
+- Espacio para usar el objeto seleccionado
+
+Objetivo:
+No permitas que se 
+te agoten los turnos,
+usando pociones,
+antes de llegar a 
+la última sala.
+
+Recoge monedas,
+encuentra la espada
+para matar monstruos
+y la armadura para reducir
+el daño que te hacen.
+
+Recoge al menos 20 monedas
+ para poder avanzar
+ al siguiente nivel.
+
+Pulse (M) para volver al menú

@@ -1,0 +1,26 @@
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.csprojAssemblyReference.cache
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.AssemblyInfoInputs.cache
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.AssemblyInfo.cs
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.exe
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.deps.json
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.runtimeconfig.json
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.runtimeconfig.dev.json
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.dll
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.pdb
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.dll
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.pdb
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.csproj.CoreCompileInputs.cache
+C:\Users\hamer\source\repos\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.genruntimeconfig.cache
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.exe
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.deps.json
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.runtimeconfig.json
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.runtimeconfig.dev.json
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.dll
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\bin\Debug\netcoreapp3.1\Programación-2ºTrimestre.pdb
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.csprojAssemblyReference.cache
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.csproj.CoreCompileInputs.cache
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.AssemblyInfoInputs.cache
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.AssemblyInfo.cs
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.dll
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.pdb
+C:\Users\hamer\Desktop\Recursos clase\PRO\2º Trimestre\Programación-2ºTrimestre\Programación-2ºTrimestre\obj\Debug\netcoreapp3.1\Programación-2ºTrimestre.genruntimeconfig.cache

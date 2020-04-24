@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Programación_2ºTrimestre.Tablero">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAgAAIAAABAIAAARAAAAIAAQAAAAABACgAAAA=</HashCode>
+      <FileName>Tablero.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="celdas" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Celda">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAJAQAYAAAAAAACEQgAAEAA5AAQQAAAAAJAIBA=</HashCode>
+      <FileName>Celda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Programa">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Programa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.TipoCelda">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAIAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>TipoCelda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Jugador">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEQCgQAAYBAAEAAAAABAQAQAAggAAAIQABiIADBQKA=</HashCode>
+      <FileName>Jugador.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="mapa" />
+      <Field Name="mochila" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Cosa">
+    <Position X="14.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cosa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Moneda">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Moneda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Potion">
+    <Position X="17" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Potion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Inventario">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAQAAAAAAEAUAEgAAUCEAAAgAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Inventario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Armadura">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Armadura.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Espada">
+    <Position X="15" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Espada.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Estado">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAICAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Estado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programación_2ºTrimestre.Monster">
+    <Position X="11.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAYAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Monster.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Programación_2ºTrimestre.IEnemy">
+    <Position X="13.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
