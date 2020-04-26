@@ -95,11 +95,11 @@ namespace Programación_2ºTrimestre
 
         }
 
-        public void PutGear(int quantity)
+        public void PutGear()
         {
             int x;
             int y;
-            for (int i = 0; i < quantity; i++)
+            for (int i = 0; i < 1; i++)
             {
                 do
                 {
@@ -112,7 +112,7 @@ namespace Programación_2ºTrimestre
                 this.celdas[x, y].PutArmor();
             }
 
-            for (int i = 0; i < quantity; i++)
+            for (int i = 0; i < 1; i++)
             {
                 do
                 {

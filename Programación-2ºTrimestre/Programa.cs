@@ -123,7 +123,7 @@ namespace Programación_2ºTrimestre
                             m1.RandomWalk(1500);
                             m1.ConvierteMonedas();
                             m1.PutItems(250);
-                            m1.PutGear(1);
+                            m1.PutGear();
                             m1.PutMonsters(100);
 
                             ConsoleKeyInfo option;
@@ -158,7 +158,7 @@ namespace Programación_2ºTrimestre
                             m2.RandomWalk(1500);
                             m2.ConvierteMonedas();
                             m2.PutItems(250);
-                            m2.PutGear(1);
+                            m2.PutGear();
                             m2.PutMonsters(120);
 
                             do
@@ -191,7 +191,7 @@ namespace Programación_2ºTrimestre
                             m3.RandomWalk(1500);
                             m3.ConvierteMonedas();
                             m3.PutItems(250);
-                            m3.PutGear(1);
+                            m3.PutGear();
                             m3.PutMonsters(120);
 
                             do
