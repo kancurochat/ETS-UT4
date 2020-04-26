@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hamer\\Desktop\\Recursos clase\\PRO\\2º Trimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre.csproj": {}
+    "C:\\Users\\hamer\\source\\repos\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hamer\\Desktop\\Recursos clase\\PRO\\2º Trimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre.csproj": {
+    "C:\\Users\\hamer\\source\\repos\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hamer\\Desktop\\Recursos clase\\PRO\\2º Trimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre.csproj",
+        "projectUniqueName": "C:\\Users\\hamer\\source\\repos\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre.csproj",
         "projectName": "Programación-2ºTrimestre",
-        "projectPath": "C:\\Users\\hamer\\Desktop\\Recursos clase\\PRO\\2º Trimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre.csproj",
+        "projectPath": "C:\\Users\\hamer\\source\\repos\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre.csproj",
         "packagesPath": "C:\\Users\\hamer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hamer\\Desktop\\Recursos clase\\PRO\\2º Trimestre\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\obj\\",
+        "outputPath": "C:\\Users\\hamer\\source\\repos\\Programación-2ºTrimestre\\Programación-2ºTrimestre\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hamer\\AppData\\Roaming\\NuGet\\NuGet.Config",

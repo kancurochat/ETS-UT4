@@ -13,7 +13,7 @@ namespace Programación_2ºTrimestre
         Cosa armadura;
         Cosa anillo;
         Inventario mochila;
-        public int turns;
+        public int pasos;
 
         public Jugador(int x, int y, Tablero t)
         {
@@ -21,17 +21,17 @@ namespace Programación_2ºTrimestre
             this.x = x;
             this.y = y;
             this.mochila = new Inventario();
-            this.turns = 350;
+            this.pasos = 350;
         }
 
         private void EndTurn()
         {
-            this.turns -= 1;
+            this.pasos -= 1;
         }
 
         public bool HasntLost()
         {
-            if (this.turns > 0)
+            if (this.pasos > 0)
             {
                 return true;
             }
@@ -43,7 +43,7 @@ namespace Programación_2ºTrimestre
 
         public bool HasLost()
         {
-            if (this.turns <= 0)
+            if (this.pasos <= 0)
             {
                 return true;
             }
@@ -133,7 +133,7 @@ namespace Programación_2ºTrimestre
 
         public void AddTurns()
         {
-            this.turns += 60;
+            this.pasos += 60;
         }
 
         internal void selectPreviousItem()
@@ -163,11 +163,11 @@ namespace Programación_2ºTrimestre
 
                     if (armadura != null)
                     {
-                        this.turns -= 20;
+                        this.pasos -= 20;
                     }
                     else
                     {
-                        this.turns -= (this.mapa.celdas[x, y] as Monster).getDmg() ;
+                        this.pasos -= (this.mapa.celdas[x, y] as Monster).getDmg() ;
                     }
 
                     if (this.espada != null)
@@ -226,7 +226,7 @@ namespace Programación_2ºTrimestre
             Console.SetCursorPosition(50, 3);
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.DarkGreen;
-            Console.Write(" Turnos restantes: " + turns + " ");
+            Console.Write(" Turnos restantes: " + pasos + " ");
 
             if (this.espada != null)
             {
