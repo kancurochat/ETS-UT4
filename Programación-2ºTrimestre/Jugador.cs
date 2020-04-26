@@ -15,7 +15,7 @@ namespace Programación_2ºTrimestre
         Inventario mochila;
         public int pasos;
 
-        public Jugador(int x, int y, Tablero t)
+        public Jugador(Tablero t, int x, int y)
         {
             this.mapa = t;
             this.x = x;

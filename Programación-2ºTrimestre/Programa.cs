@@ -117,7 +117,7 @@ namespace Programación_2ºTrimestre
 
                             Console.CursorVisible = false;
                             m1 = new Tablero(300, 300);
-                            player = new Jugador(150, 150, m1);
+                            player = new Jugador(m1, 150, 150);
 
 
                             m1.RandomWalk(1500);
@@ -153,7 +153,7 @@ namespace Programación_2ºTrimestre
                             }
 
                             m2 = new Tablero(300, 300);
-                            player = new Jugador(150, 150, m2);
+                            player = new Jugador(m2, 150, 150);
 
                             m2.RandomWalk(1500);
                             m2.ConvierteMonedas();
@@ -186,7 +186,7 @@ namespace Programación_2ºTrimestre
                             }
 
                             m3 = new Tablero(300, 300);
-                            player = new Jugador(150, 150, m3);
+                            player = new Jugador(m3, 150, 150);
 
                             m3.RandomWalk(1500);
                             m3.ConvierteMonedas();
