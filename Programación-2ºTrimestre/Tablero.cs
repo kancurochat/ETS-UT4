@@ -110,20 +110,41 @@ namespace Programación_2ºTrimestre
                 while (celdas[x, y].NotEmpty() || celdas[x, y].IsObject());
 
                 this.celdas[x, y].PutArmor();
-            }
-
-            for (int i = 0; i < 1; i++)
-            {
-                do
+                if (this.celdas[x+1,y].IsEmpty())
                 {
-
-                    x = r.Next(0, celdas.GetLength(0) - 1);
-                    y = r.Next(0, celdas.GetLength(1) - 1);
+                    this.celdas[x + 1, y].PutSword();
                 }
-                while (celdas[x, y].NotEmpty() || celdas[x, y].IsObject());
-
-                this.celdas[x, y].PutSword();
+                else if (this.celdas[x - 1, y].IsEmpty())
+                {
+                    this.celdas[x - 1, y].PutSword();
+                }
+                else if (this.celdas[x, y + 1].IsEmpty())
+                {
+                    this.celdas[x, y + 1].PutSword();
+                }
+                else if (this.celdas[x, y -1].IsEmpty())
+                {
+                    this.celdas[x, y - 1].PutSword();
+                }
+                else
+                {
+                    this.celdas[x + 1, y].PutEmpty();
+                    this.celdas[x + 1, y].PutSword();
+                }
             }
+
+            //for (int i = 0; i < 1; i++)
+            //{
+            //    do
+            //    {
+
+            //        x = r.Next(0, celdas.GetLength(0) - 1);
+            //        y = r.Next(0, celdas.GetLength(1) - 1);
+            //    }
+            //    while (celdas[x, y].NotEmpty() || celdas[x, y].IsObject());
+
+            //    this.celdas[x, y].PutSword();
+            //}
 
         }
 
