@@ -9,7 +9,7 @@ namespace Programación_2ºTrimestre
 
         static void Main(string[] args)
         {
-            int estado = Estado.Portada;
+            var estado = Estado.Portada;
             Tablero m1, m2, m3;
             Jugador player;
             String portadaFile = "data/portada.txt";
@@ -120,11 +120,8 @@ namespace Programación_2ºTrimestre
                             player = new Jugador(m1, 150, 150);
 
 
-                            m1.RandomWalk(1500);
-                            m1.ConvierteMonedas();
-                            m1.PutItems(250);
-                            m1.PutGear();
-                            m1.PutMonsters(100);
+                            IniciarMapa(m1);
+
 
                             ConsoleKeyInfo option;
                             do
@@ -155,11 +152,7 @@ namespace Programación_2ºTrimestre
                             m2 = new Tablero(300, 300);
                             player = new Jugador(m2, 150, 150);
 
-                            m2.RandomWalk(1500);
-                            m2.ConvierteMonedas();
-                            m2.PutItems(250);
-                            m2.PutGear();
-                            m2.PutMonsters(120);
+                            IniciarMapa(m2);
 
                             do
                             {
@@ -188,11 +181,8 @@ namespace Programación_2ºTrimestre
                             m3 = new Tablero(300, 300);
                             player = new Jugador(m3, 150, 150);
 
-                            m3.RandomWalk(1500);
-                            m3.ConvierteMonedas();
-                            m3.PutItems(250);
-                            m3.PutGear();
-                            m3.PutMonsters(120);
+                            IniciarMapa(m3);
+
 
                             do
                             {
@@ -225,6 +215,15 @@ namespace Programación_2ºTrimestre
                 }
             } while (seleccion.Key != ConsoleKey.Escape);
 
+
+            void IniciarMapa(Tablero nivel)
+            {
+                nivel.RandomWalk(1500);
+                nivel.ConvierteMonedas();
+                nivel.PutItems(250);
+                nivel.PutGear();
+                nivel.PutMonsters(100);
+            }
 
         }
     }

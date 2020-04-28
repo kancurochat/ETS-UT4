@@ -11,7 +11,6 @@ namespace Programación_2ºTrimestre
         Tablero mapa;
         Cosa espada;
         Cosa armadura;
-        Cosa anillo;
         Inventario mochila;
         public int pasos;
 
